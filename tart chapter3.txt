@@ -1,0 +1,11 @@
+[33mcommit 054ea573660994ef0c409a1f3bc7852fa461a931[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Example Name <name@example.com>
+Date:   Fri Apr 18 20:32:55 2025 +0200
+
+    Complete Chapter 2
+
+[33mcommit b8912796963de4c18a71ef2d05a8d7ef429cf894[m
+Author: Example Name <name@example.com>
+Date:   Fri Apr 18 19:55:39 2025 +0200
+
+    Complete Chapter 1
